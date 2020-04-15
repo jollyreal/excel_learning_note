@@ -5,6 +5,7 @@
 
 ## 解決策
 MS Word and MS Excelの既存フォントに一つ特別なフォントがあって、「Symbol」と呼ばれる。このフォントの機能は普通なabcを特別シンボルに変更する。
+
 ![word_symbol](src/ms_word_symbol.PNG)
 ![excel_symbol](src/ms_excel_symbol.PNG)
 

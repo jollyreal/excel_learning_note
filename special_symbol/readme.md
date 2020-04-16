@@ -10,7 +10,7 @@ MS Word and MS Excelの既存フォントに一つ特別なフォントがあっ
 ![excel_symbol](src/ms_excel_symbol.PNG)
 
 ### MS Word ショットカット
-Excelがこのショットカット機能がない。
+Excelにはこのショートカット機能がない
 ```
 「Ctrl」+「Shift」+「Q」
 ```
